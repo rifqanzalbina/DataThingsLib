@@ -1,2 +1,5 @@
-# NuGGETThing
-Fungsional and What used for
+# About
+CSharp Thing and what used for
+
+## Made by 
+- rifqanzalbina
