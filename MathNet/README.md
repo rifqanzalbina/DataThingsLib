@@ -13,3 +13,13 @@ it also supports native hardware optimization. You can See [Platform Support](ht
 * [MathNet.NumericsFSharp](https://www.nuget.org/packages/MathNet.Numerics.FSharp/) - optional extensions for a better experience
 when using F#
 
+See [NuGet & Binaries](https://numerics.mathdotnet.com/Packages) for a complete list of our NuGet packages, Zip Files and release archive
+
+# using Math.NET Numerics with C#
+Being written in it, Math.NET Numerics works very well with C# and related .NET language. When using Visual Studio or another IDE with built-in NuGet Support, you can get started quickly by adding a reference to the **MathNet.Numerics** NuGet package. Alternatively you can grab that package with the command line tool with **nuget.exe install MathNet.Numerics -Pre** or simply dowload the Zip Package.
+
+Let's see some project i made :
+1. [Metrics and vectors]()
+
+
+
