@@ -19,7 +19,7 @@ See [NuGet & Binaries](https://numerics.mathdotnet.com/Packages) for a complete 
 Being written in it, Math.NET Numerics works very well with C# and related .NET language. When using Visual Studio or another IDE with built-in NuGet Support, you can get started quickly by adding a reference to the **MathNet.Numerics** NuGet package. Alternatively you can grab that package with the command line tool with **nuget.exe install MathNet.Numerics -Pre** or simply dowload the Zip Package.
 
 Let's see some project i made :
-1. [Metrics and vectors]()
+1. [Metrics and vectors](https://github.com/rifqanzalbina/DifferentButSame/tree/main/MetricsMathNet/metrics)
 
 
 
