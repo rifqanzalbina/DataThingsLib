@@ -1,5 +1,5 @@
 # About
-Csharp thing do and what used for..
+Progressive to learn Data Thing
 
 ## Made by 
 - rifqanzalbina
