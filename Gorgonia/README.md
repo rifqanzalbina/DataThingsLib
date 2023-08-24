@@ -33,5 +33,5 @@ those written in interpreted languages like Python.
 meaning they're easy to distribute and run across different platforms.
 
 Some Project to learn Gorgonia :
-- [GoTensorMath](link)
+- [GoTensorMath](https://github.com/rifqanzalbina/DifferentButSame/tree/main/GorgoniaMatrixSum)
    
