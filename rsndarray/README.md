@@ -21,4 +21,4 @@ From the data  ingestion to analysis, rsndarray provides a comprehensive suite o
 </p>
 
 # Some Project That i Make using rsndarray
-[Project](https://github.com/rifqanzalbina/DifferentButSame/tree/main/ndarray)
+- [Project](https://github.com/rifqanzalbina/DifferentButSame/tree/main/ndarray)
